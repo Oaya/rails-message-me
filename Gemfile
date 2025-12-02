@@ -18,6 +18,8 @@ gem "stimulus-rails"
 gem "jbuilder"
 gem "semantic-ui-sass", "~> 2.2", ">= 2.2.1.1"
 gem "jquery-rails"
+
+gem "bcrypt", "~> 3.1.7"
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
